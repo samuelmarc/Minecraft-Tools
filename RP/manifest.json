@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Samuel"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.48"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "§lMinecraft Tools §4By Samuel",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			21,
+			90
+		],
+		"uuid": "63105112-91f3-493c-b7a2-03308e9bffc8",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "f176a598-5ae3-4191-ade1-013ab1d3adfc",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "6fbb495e-6afe-49fd-a6ff-38bc97d3d01a",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

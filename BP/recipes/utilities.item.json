@@ -1,0 +1,29 @@
+{
+    "format_version": "1.21.90",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "mtools:utilities"
+        },
+        "priority": 2,
+        "key": {
+            "X": "minecraft:smooth_stone"
+        },
+        "pattern": [
+            "XXX",
+            "XXX",
+            "XXX"
+        ],
+        "result": [
+            {
+                "item": "mtools:utilities",
+                "count": 1
+            }
+        ],
+        "tags": [
+            "crafting_table"
+        ],
+        "unlock": {
+            "context": "AlwaysUnlocked"
+        }
+    }
+}

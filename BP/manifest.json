@@ -1,0 +1,72 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Samuel"
+		],
+		"product_type": "addon",
+		"generated_with": {
+			"bridge": [
+				"2.7.48"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "§lMinecraft Tools §4By Samuel",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			21,
+			90
+		],
+		"uuid": "6fbb495e-6afe-49fd-a6ff-38bc97d3d01a",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "07c1711b-42eb-4ea2-958d-fdd4cbc5ad20",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"entry": "scripts/main.js",
+			"language": "javascript",
+			"uuid": "f24c22df-f5c7-4963-9897-60a697e8ee69",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "63105112-91f3-493c-b7a2-03308e9bffc8",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "2.0.0"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "2.0.0"
+		}
+	]
+}

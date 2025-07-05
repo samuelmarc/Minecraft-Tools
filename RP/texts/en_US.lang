@@ -1,0 +1,26 @@
+pack.description=§lAdded several useful features for use without taking away your §4achievements!
+
+item.mtools:utilities=Utilities
+
+menu.back=Back
+menu.main.request=Want to request new utilities? Contact @samuel_ks on telegram.
+menu.main.switchGameMode=Switch game mode
+menu.main.teleport=Teleport
+
+menu.confirm.title=Confirmation
+menu.confirm.body=Do you want to confirm this action?
+menu.confirm.accept=Yes
+menu.confirm.decline=No
+
+menu.switchGameMode.select=Select game mode
+menu.switchGameMode.survival=Survival
+menu.switchGameMode.creative=Creative
+menu.switchGameMode.tip=This option cannot be used in hardcore mode.
+
+menu.teleport.user=User
+menu.teleport.coordinate=Coordinate
+
+menu.teleport.user.title=Teleport to user
+menu.teleport.user.dropdown=Select the user
+
+menu.teleport.coordinate.title=Teleport to Coordinate

@@ -1,0 +1,26 @@
+pack.description=§lAdicionado recursos úteis sem perder suas §4conquistas!
+
+item.mtools:utilities=Utilidades
+
+menu.back=Voltar
+menu.main.request=Deseja pedir novas utilidades? Contate @samuel_ks no telegram.
+menu.main.switchGameMode=Mudar modo de jogo
+menu.main.teleport=Teleporte
+
+menu.confirm.title=Confirmação
+menu.confirm.body=Deseja confirmar essa ação?
+menu.confirm.accept=Sim
+menu.confirm.decline=Não
+
+menu.switchGameMode.select=Selecione o modo de jogo
+menu.switchGameMode.survival=Sobrevivência
+menu.switchGameMode.creative=Criativo
+menu.switchGameMode.tip=Não é possível utilizar essa opção no modo hardcore.
+
+menu.teleport.user=Usuário
+menu.teleport.coordinate=Cordenada
+
+menu.teleport.user.title=Teleportar até usuário
+menu.teleport.user.dropdown=Selecione o usuário
+
+menu.teleport.coordinate.title=Teleportar Até Cordenada
